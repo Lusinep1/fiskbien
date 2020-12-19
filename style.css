@@ -1,0 +1,64 @@
+body, html {
+    height: 100%;
+  }
+  .bg {
+    opacity: 0.5;
+    background-image: url("img/Karen-fiskbilen.jpg");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+
+  }
+.cont {
+    position: absolute;
+    border-radius: 10%;
+    width: 35%;
+    top: 0;
+    left: 29%;
+    margin: 3% auto;
+    height: 95vh;
+    background-color: #31577a;
+}
+  #logo {
+      position: absolute;
+      height: 100px;
+      width: 250px;
+      top: 70px;
+      left: 500px;
+  }
+  hr {
+      position: absolute;
+      top: 170px;
+      left: 391px;
+      color: rgb(255, 255, 255);
+      width: 34.82%;
+      margin: 0 auto;
+      display: block;
+
+  }
+  h1 {
+      position: absolute;
+      top: 192px;
+      left: 455px;
+      font-size: 35px;
+  }
+  h2 {
+    position: absolute;
+    top: 240px;
+    left: 560px;
+    font-size: 35px;
+  }
+  .us {
+    position: absolute;
+    top: 370px;
+    left: 455px;
+  }
+  .us b {
+    font-weight: normal;
+    font-size: 20px;
+  }
+ 
+
+
+  
